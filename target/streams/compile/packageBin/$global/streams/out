@@ -1,0 +1,27 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/emailakka_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SupervisorActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/SupervisorActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/App.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WorkerActors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/WorkerActors.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SupervisorActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/SupervisorActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WorkerActors$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/WorkerActors$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmailWork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/EmailWork.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Email.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/Email.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmailWorkList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/EmailWorkList.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmailWork$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/EmailWork$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EmailWorkList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/EmailWorkList$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/App$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WorkerActors$$anonfun$sendEmail$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/silentman/IdeaProjects/SBT/EmailAkka/target/scala-2.12/classes/WorkerActors$$anonfun$sendEmail$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
